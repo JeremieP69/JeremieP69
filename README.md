@@ -32,6 +32,8 @@ European mobile platform for truck drivers, combining POIs, community features, 
 
 **Key achievement:** launched a paid truck GPS subscription in 7 months.
 
+🔗 Website: https://www.truckfly.com
+
 ---
 
 ### 🥗 MyCoachNutrition — AI-powered nutrition SaaS
