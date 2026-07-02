@@ -88,7 +88,7 @@ I am currently experimenting with **BMAD-style AI workflows** to structure the c
 
 During this experiment, I identified a gap between product requirements, UI prototyping and user story generation. I am exploring how AI workflows could use validated UI prototypes as context to generate more consistent development-ready stories.
 
-Tools I use or experiment with: ChatGPT / Codex, Claude, LLM APIs, Cursor, Lovable, Figma Make, n8n.
+Tools I use or experiment with: ChatGPT / Codex, Claude, LLM APIs.
 
 ---
 
