@@ -18,7 +18,7 @@ The assistant is based on a structured knowledge base covering my CV, Truckfly b
 
 **Focus:** Voice AI, agents, knowledge base, conversational UX, customer-facing demo.
 
-🔗 Demo: Coming soon
+🔗 Demo: [Talk to my AI Voice CV Agent](https://elevenlabs.io/app/talk-to?agent_id=agent_3101kwj48dygfcvtata0epnsezjw&branch_id=agtbrch_8001kwj48evye24sacq4tx2kr2kg)
 
 ---
 
