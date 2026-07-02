@@ -133,7 +133,7 @@ Tools I use or experiment with:
 
 ## Technical background
 
-I am not positioning myself as a full-time software engineer today, but I have a strong technical foundation and hands-on experience building and shipping digital products.
+Today, my strongest value is at the intersection of product, technical understanding, customer-facing discovery and business execution. I have a strong technical foundation and hands-on experience building, integrating and shipping digital products, while translating customer needs into practical product and technical solutions.
 
 Technical areas I am comfortable with:
 - Web and mobile product architecture
