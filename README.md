@@ -46,13 +46,18 @@ Side project using LLMs to generate personalized weekly nutrition plans, shoppin
 
 ---
 
-### 🤖 AI product workflows & BMAD experiment
+### 🧩 Prototype Parity Kit for BMad
 
-Experimenting with BMAD-style AI workflows to structure the creation of a complete web platform for pet sitting reservations.
+Open-source BMad module that keeps a validated browser-renderable prototype as
+an actionable reference from PRD through UX, architecture, and implementation.
 
-I identified a gap between product requirements, UI prototyping and user story generation, and I am exploring how AI workflows could use validated UI prototypes as context to generate more consistent development-ready stories.
+It captures versioned design evidence, binds UI stories to it, and provides a
+per-story visual parity gate plus an epic-close audit.
 
-**Focus:** AI-assisted product creation, UX flows, specifications, backlog generation, engineering handoff.
+**Focus:** AI-assisted product delivery, prototype-to-code parity, UX flows,
+story quality gates, and engineering handoff.
+
+🔗 GitHub: [Prototype Parity Kit](https://github.com/JeremieP69/bmad-prototype-parity-kit)
 
 ---
 
