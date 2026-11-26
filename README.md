@@ -1,120 +1,27 @@
-# Hi, I'm Jérémie Perera
+# Jérémie Perera
 
-**AI Product & Technical Solutions Leader** based in Lyon, France.
+I’m a product leader and hands-on builder based in Lyon, France. My background spans sales, mobile subscriptions and AI-assisted product development. I like working directly with customers and engineers, from figuring out what someone would pay for to getting the first version into their hands.
 
-I work at the intersection of **product strategy, AI-enabled workflows, mobile/web products, customer-facing discovery and business execution**.
+## Selected work
 
-Today, my strongest value is translating user and customer needs into practical product and technical solutions.
+### Truckfly by Michelin · Mobile subscriptions
 
----
+I led product strategy and delivery for a European mobile platform for truck drivers. We launched a paid truck GPS subscription in **seven months**, bringing together mobile and backend engineers, design, analytics and external partners. Truckfly reached 2.3M+ downloads across 44 countries. [Truckfly](https://www.truckfly.com)
 
-## 🚀 Featured projects
+### Keeppets · A live booking product
 
-### 🎙️ AI Voice CV Agent — in progress
+I built a booking application for a local pet-care business. The owner meets each new client before opening an account. Once approved, clients can book visits and other services online against her availability. That first meeting shaped the onboarding flow and who can make a reservation. [Visit Keeppets](https://keeppets.fr/)
 
-A voice/chat assistant built to answer questions about my background, projects and fit for AI product / technical solutions roles.
+### SCOPE · From product decisions to acceptance tests
 
-The assistant is based on a structured knowledge base covering my CV, Truckfly by Michelin, MyCoachNutrition and AI workflow experiments.
+I built SCOPE to preserve the decisions teams make while trying a prototype. With SCOPE, product and engineering can try the journey, approve a specific revision and trace a requirement through to its acceptance test. The implementation is private while I validate the workflow. [Explore the SCOPE showcase](https://github.com/JeremieP69/scope-showcase)
 
-**Focus:** Voice AI, agents, knowledge base, conversational UX, customer-facing demo.
+**In progress · Garmin watch project.** I’m using SCOPE to work through a watch interaction before connecting it to a device. One decision is what the wearer should see if the connection drops after they send a command but before the device confirms it. The prototype lets me try that case and specify the expected behaviour.
 
-🔗 Demo: [Talk to my AI Voice CV Agent](https://elevenlabs.io/app/talk-to?agent_id=agent_3101kwj48dygfcvtata0epnsezjw&branch_id=agtbrch_8001kwj48evye24sacq4tx2kr2kg)
+## Other projects
 
----
+- **MyCoachNutrition.** I built a nutrition planning product that turns onboarding preferences into personalised weekly meal plans and shopping lists. It gave me hands-on experience with LLM-based product logic and the foundations of a subscription product. [MyCoachNutrition](https://mycoachnutrition.com)
+- **AI Voice CV Agent.** A voice and chat assistant that answers questions about my work from a curated knowledge base. [Explore the project](https://github.com/JeremieP69/ai-voice-cv-agent)
+- **Prototype Parity Kit for BMAD.** An open-source module that lets engineers compare a delivered UI with the prototype approved for that story. [View the kit](https://github.com/JeremieP69/bmad-prototype-parity-kit)
 
-### 🚚 Truckfly by Michelin — Product leadership & paid truck navigation
-
-European mobile platform for truck drivers, combining POIs, community features, B2B opportunities and paid truck navigation.
-
-**Scope:** 44 countries, 21 languages, 2.3M+ downloads, 126K+ operational POIs.
-
-**What I did:** led product strategy and delivery across mobile, backend, design, analytics, business stakeholders and external partners.
-
-**Key achievement:** launched a paid truck GPS subscription in 7 months.
-
-🔗 Website: https://www.truckfly.com
-
----
-
-### 🥗 MyCoachNutrition — AI-powered nutrition SaaS
-
-Side project using LLMs to generate personalized weekly nutrition plans, shopping lists and recommendations.
-
-**What I built:** onboarding, AI meal plan generation, prompt-based product logic, Web/PWA experience, subscription and analytics foundations.
-
-🔗 Website: https://mycoachnutrition.com
-
----
-
-### 🧩 Prototype Parity Kit for BMad
-
-Open-source BMad module that keeps a validated browser-renderable prototype as
-an actionable reference from PRD through UX, architecture, and implementation.
-
-It captures versioned design evidence, binds UI stories to it, and provides a
-per-story visual parity gate plus an epic-close audit.
-
-**Focus:** AI-assisted product delivery, prototype-to-code parity, UX flows,
-story quality gates, and engineering handoff.
-
-🔗 GitHub: [Prototype Parity Kit](https://github.com/JeremieP69/bmad-prototype-parity-kit)
-
----
-
-## What I do
-
-I help turn ambiguous business, user and technical problems into clear product directions, prototypes, roadmaps and shipped outcomes.
-
-Main strengths:
-- Product strategy and roadmap execution
-- AI-enabled product discovery and workflow automation
-- Customer and partner-facing solution framing
-- Technical scoping with engineering teams
-- MVP definition, prioritization and launch execution
-- Stakeholder alignment across business, product, tech and external partners
-- Data-informed decision-making and post-launch iteration
-
----
-
-## Technical background
-
-Today, my strongest value is at the intersection of product, technical understanding, customer-facing discovery and business execution.
-
-I have a strong technical foundation and hands-on experience building, integrating and shipping digital products, while translating customer needs into practical product and technical solutions.
-
-Comfortable with:
-- Web and mobile product architecture
-- API-based integrations
-- AI-assisted workflows and prompt-based product logic
-- Product analytics
-- Subscription systems
-- Mobile app delivery constraints
-- SDK integration topics
-- WordPress / PHP / JavaScript
-- React Native concepts
-- iOS / Android delivery workflows
-
----
-
-## Tools I use or experiment with
-
-ChatGPT / Codex · Claude / Claude design · LLM APIs ·
-
----
-
-## What I am exploring now
-
-- AI agents for customer-facing and internal workflows
-- Voice AI interfaces
-- AI-assisted product discovery
-- Workflow automation for business teams
-- Practical LLM use cases with measurable ROI
-- Enterprise AI adoption and deployment patterns
-
----
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/jeremieperera  
-GitHub: https://github.com/JeremieP69  
-Location: Lyon, France
+[Connect on LinkedIn](https://www.linkedin.com/in/jeremieperera)
