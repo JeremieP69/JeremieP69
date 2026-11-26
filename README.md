@@ -6,11 +6,11 @@ I’m a product leader and hands-on builder based in Lyon, France. My background
 
 ### Truckfly by Michelin · Mobile subscriptions
 
-I led product strategy and delivery for a European mobile platform for truck drivers. We launched a paid truck GPS subscription in **seven months**, bringing together mobile and backend engineers, design, analytics and external partners. Truckfly reached 2.3M+ downloads across 44 countries. [Truckfly](https://www.truckfly.com)
+I led product strategy and delivery for a European mobile platform for truck drivers. We launched a paid truck GPS subscription in **seven months**, bringing together mobile and backend engineers, design, analytics and external partners. The app reached **120K+ monthly active users** and 2.3M+ downloads across 44 countries. [Truckfly](https://www.truckfly.com)
 
 ### Keeppets · A live booking product
 
-I built a booking application for a local pet-care business. The owner meets each new client before opening an account. Once approved, clients can book visits and other services online against her availability. That first meeting shaped the onboarding flow and who can make a reservation. [Visit Keeppets](https://keeppets.fr/)
+I built Keeppets with the BMAD Method to test an AI-assisted workflow from requirements to launch. The test case was a booking app for a local pet-care business where clients must meet the owner before they can book online. I carried that rule through onboarding, account approval and booking. [Visit Keeppets](https://keeppets.fr/)
 
 ### SCOPE · From product decisions to acceptance tests
 
