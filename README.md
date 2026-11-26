@@ -21,7 +21,6 @@ I built SCOPE to preserve the decisions teams make while trying a prototype. Wit
 ## Other projects
 
 - **MyCoachNutrition.** I built a nutrition planning product that turns onboarding preferences into personalised weekly meal plans and shopping lists. It gave me hands-on experience with LLM-based product logic and the foundations of a subscription product. [MyCoachNutrition](https://mycoachnutrition.com)
-- **AI Voice CV Agent.** A voice and chat assistant that answers questions about my work from a curated knowledge base. [Explore the project](https://github.com/JeremieP69/ai-voice-cv-agent)
 - **Prototype Parity Kit for BMAD.** An open-source module that lets engineers compare a delivered UI with the prototype approved for that story. [View the kit](https://github.com/JeremieP69/bmad-prototype-parity-kit)
 
 [Connect on LinkedIn](https://www.linkedin.com/in/jeremieperera)
